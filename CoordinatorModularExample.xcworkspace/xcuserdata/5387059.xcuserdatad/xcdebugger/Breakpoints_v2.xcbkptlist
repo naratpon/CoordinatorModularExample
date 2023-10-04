@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "10E18243-9C28-40C6-9152-8F268F8A1C89"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1841C53C-4532-4F0D-91EA-5899F80EA5A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Module/Common/Common/Coordinator/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "navigate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1841C53C-4532-4F0D-91EA-5899F80EA5A5 - 7e804594a776d641"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "1841C53C-4532-4F0D-91EA-5899F80EA5A5 - 7e804594a776d660"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "333">
+               </Location>
+               <Location
+                  uuid = "1841C53C-4532-4F0D-91EA-5899F80EA5A5 - 7e804594a776d603"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "614">
+               </Location>
+               <Location
+                  uuid = "1841C53C-4532-4F0D-91EA-5899F80EA5A5 - 7e804594a776d603"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "805">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A275E377-F79E-49DC-9F0D-1F732660FC5C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Module/Common/Common/Coordinator/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "navigate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A275E377-F79E-49DC-9F0D-1F732660FC5C - 7e804594a776d71b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "A275E377-F79E-49DC-9F0D-1F732660FC5C - 7e804594a776d73a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "418">
+               </Location>
+               <Location
+                  uuid = "A275E377-F79E-49DC-9F0D-1F732660FC5C - 7e804594a776d6c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1209">
+               </Location>
+               <Location
+                  uuid = "A275E377-F79E-49DC-9F0D-1F732660FC5C - 7e804594a776d6c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1397">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB4844CE-68DA-46CB-B92C-8A6CCEA32D8A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Module/Common/Common/Coordinator/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "navigate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB4844CE-68DA-46CB-B92C-8A6CCEA32D8A - 7e804594a776d013"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "554">
+               </Location>
+               <Location
+                  uuid = "EB4844CE-68DA-46CB-B92C-8A6CCEA32D8A - 7e804594a776d032"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "715">
+               </Location>
+               <Location
+                  uuid = "EB4844CE-68DA-46CB-B92C-8A6CCEA32D8A - 7e804594a776d7be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1606">
+               </Location>
+               <Location
+                  uuid = "EB4844CE-68DA-46CB-B92C-8A6CCEA32D8A - 7e804594a776d7be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1782">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97860DF1-C437-4E95-8AEB-C8073CAC97BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Module/FeatureC/FeatureC/Scene/C1/C1ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "tappedToA2(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "97860DF1-C437-4E95-8AEB-C8073CAC97BA - 113e9019206df1f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FeatureC.C1ViewController.tappedToA2(Any) -&gt; ()"
+                  moduleName = "FeatureC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/FeatureC/FeatureC/Scene/C1/C1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "97860DF1-C437-4E95-8AEB-C8073CAC97BA - 113e9019206df212"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FeatureC.C1ViewController.tappedToA2(Any) -&gt; ()"
+                  moduleName = "FeatureC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/FeatureC/FeatureC/Scene/C1/C1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1F8F975-D7F5-46F4-8FFC-1A1189C8D375"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Module/Common/Common/Coordinator/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "navigate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1F8F975-D7F5-46F4-8FFC-1A1189C8D375 - 7e804594a776d013"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1669">
+               </Location>
+               <Location
+                  uuid = "A1F8F975-D7F5-46F4-8FFC-1A1189C8D375 - 7e804594a776d013"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1821">
+               </Location>
+               <Location
+                  uuid = "A1F8F975-D7F5-46F4-8FFC-1A1189C8D375 - 7e804594a776d013"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1848">
+               </Location>
+               <Location
+                  uuid = "A1F8F975-D7F5-46F4-8FFC-1A1189C8D375 - 7e804594a776d013"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Common.AppCoordinator.navigate(Common.ApplicationTransitionType) -&gt; ()"
+                  moduleName = "Common"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/Module/Common/Common/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2000">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55CD8B3E-C509-4031-A567-FC298FB3FD50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Module/FeatureC/FeatureC/SceneBuilder/SceneBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED8E9AA5-666E-4034-B6EC-AAE97AFF4562"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoordinatorModularExample/CoordinatorManager/CoordinatorManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "configure()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ED8E9AA5-666E-4034-B6EC-AAE97AFF4562 - 65d34d59e7387050"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoordinatorModularExample.dependecny.configure() -&gt; ()"
+                  moduleName = "CoordinatorModularExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/CoordinatorModularExample/CoordinatorManager/CoordinatorManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "ED8E9AA5-666E-4034-B6EC-AAE97AFF4562 - 65d34d59e7387050"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoordinatorModularExample.dependecny.configure() -&gt; ()"
+                  moduleName = "CoordinatorModularExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/CoordinatorModularExample/CoordinatorManager/CoordinatorManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  uuid = "ED8E9AA5-666E-4034-B6EC-AAE97AFF4562 - 65d34d59e7387998"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoordinatorModularExample.dependecny.configure() -&gt; ()"
+                  moduleName = "CoordinatorModularExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/5387059/Documents/Petch/CoordinatorModularExample/CoordinatorModularExample/CoordinatorManager/CoordinatorManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D83C9E83-FAD2-4991-AAF3-3B3521E94217"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoordinatorModularExample/CoordinatorManager/CoordinatorManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "configure()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED9153C4-8CF1-4715-A1CF-77BCC5DA4748"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Module/Common/Common/Coordinator/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "buildScene(scene:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

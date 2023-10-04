@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CoordinatorModularExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Module/FeatureA/FeatureA.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Module/FeatureB/FeatureB.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Module/FeatureC/FeatureC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Module/Common/Common.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
